@@ -9,7 +9,7 @@ const CONFIG = {
 
     questions: {
         first: {
-            text: "Você gosta de mim?",
+            text: "Você gosta da sua paixão?",
             yesBtn: "Sim",
             noBtn: "Não",
             secretAnswer: "Gosto não… amo demaissssssss minha ovelinha 🐑❤️"

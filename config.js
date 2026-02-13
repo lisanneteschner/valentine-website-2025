@@ -53,11 +53,13 @@ const CONFIG = {
         heartExplosionSize: 1.5
     },
 
-    music: {
-        enabled: true,
-        autoplay: true,
-        url: "https://res.cloudinary.com/dsprnqsmo/video/upload/v1770989753/L-O-V-E_zjvhmp.mp3",
-        volume: 0.5
+  music: {
+        enabled: true,                    
+        autoplay: true,                    
+        musicUrl: "https://res.cloudinary.com/dsprnqsmo/video/upload/v1770989753/L-O-V-E_zjvhmp.mp3", 
+        startText: "🎵 Play Music",       
+        stopText: "🔇 Stop Music",      
+        volume: 0.5                       
     }
 };
 

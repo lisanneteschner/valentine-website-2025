@@ -12,7 +12,7 @@ const CONFIG = {
             text: "Você gosta de mim?",
             yesBtn: "Sim",
             noBtn: "Não",
-            secretAnswer: "Gosto não… amo demais minha ovelinha 🐑❤️"
+            secretAnswer: "Gosto não… amo demaissssssss minha ovelinha 🐑❤️"
         },
         second: {
             text: "Quanto você me ama 👀?",
@@ -28,12 +28,12 @@ const CONFIG = {
 
     loveMessages: {
         extreme: "UAUUUUUUUUU Você me ama esse tanto? 🥰🐑❤️",
-        high: "Ao infinito e além! 🚀❤️",
+        high: "Um pouquinho maisss! ❤️",
         normal: "Muitoo! 🥰"
     },
 
     celebration: {
-        title: "SIMM! Não acredito na minha sorte! 🎉💖💝💓",
+        title: "SIMM! Não acredito na minha sorte de ter meu momo! 🎉💖💝💓",
         message: "Agora vem buscar seu presente… um abraço demorado e um beijo que não acaba 😏💋!",
         emojis: "🎁💖🤗💝💋❤️💕"
     },

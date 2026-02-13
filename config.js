@@ -33,8 +33,8 @@ const CONFIG = {
     },
 
     celebration: {
-        title: "SIMM! Não acredito na minha sorte de ter meu momo! 🎉💖💝💓",
-        message: "Agora vem buscar seu presente… um abraço demorado e um beijo que não acaba 😏💋!",
+        title: "AEEEE! Não acredito na minha sorte de ter minha paixão! 🎉💖💝💓",
+        message: "Agora vem buscar seu presente logo… Muitoss beijos e abraços do momo 😏💋!",
         emojis: "🎁💖🤗💝💋❤️💕"
     },
 

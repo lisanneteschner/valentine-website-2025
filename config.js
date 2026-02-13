@@ -3,7 +3,7 @@ const CONFIG = {
     pageTitle: "Will You Be My Valentine? ❤️🦎",
 
     floatingEmojis: {
-        hearts: ['❤️', '💕', '💗', '💓','🐸','🐉','🦎'],
+        hearts: ['❤️', '💕', '💗','🐸','🦎'],
         bears: ['🦎', '🐸','🐉']
     },
 
@@ -34,7 +34,7 @@ const CONFIG = {
 
     celebration: {
         title: "AEEEE! Não acredito na minha sorte de ter minha paixão! 🎉💖💝💓",
-        message: "Agora vem buscar seu presente logo… Muitoss beijos e abraços do momo 😏💋!",
+        message: "Agora vem buscar seu presente… Muitoss beijos e abraços do momo 😏💋!",
         emojis: "🎁💖🤗💝💋❤️💕"
     },
 

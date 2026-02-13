@@ -22,7 +22,7 @@ const CONFIG = {
             nextBtn: "Próximo ❤️"                                        
         },
         third: {
-            text: "text: "Você aceita ser meu Valentine no dia 14 de fevereiro de 2026? 🌹", 
+            text: "Você aceita ser meu Valentine no dia 14 de fevereiro de 2026? 🌹", 
             yesBtn: "Sim!",                                             
             noBtn: "Não"                                                 
         }
@@ -30,26 +30,26 @@ const CONFIG = {
 
     
     loveMessages: {
-        extreme: "UAUUU Você me ama esse tanto? 🥰🐑❤️",  
+        extreme: "UAUUUUUUUUU Você me ama esse tanto? 🥰🐑❤️",  
         high: "Ao infinito e além! 🚀❤️",             
         normal: "Muitoo! 🥰"                           
     },
 
    
     celebration: {
-        title: "SIM! Não acredito na minha sorte! 🎉💖💝💓",
+        title: "SIMM! Não acredito na minha sorte! 🎉💖💝💓",
         message: "Agora vem buscar seu presente… um abraço demorado e um beijo que não acaba 😏💋!",
         emojis: "🎁💖🤗💝💋❤️💕"  
     },
 
-    // Color scheme for the website
+   
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#a82323",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
-        buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#ff4757"             // Text color (make sure it's readable!)
+        backgroundStart: "#f57799",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#bdc9a2",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#6d9e51",     // Button color (should stand out against the background)
+        buttonHover: "#f26076",          // Button hover color (slightly lighter than buttonBackground)
+        textColor: "#222222"             // Text color (make sure it's readable!)
     },
 
    

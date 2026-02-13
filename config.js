@@ -4,7 +4,7 @@ const CONFIG = {
 
     floatingEmojis: {
         hearts: ['❤️', '💕', '💗', '💓'],
-        animals: ['🦎', '🐸','🐉']
+        bears: ['🦎', '🐸','🐉']
     },
 
     questions: {
